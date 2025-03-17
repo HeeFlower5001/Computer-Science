@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c4c77da523b2e7",
+        "id": "d42d8a840741ad17",
         "type": "tabs",
         "children": [
           {
-            "id": "98c28478ccf70a9b",
+            "id": "61fbab658e2fede5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -20,21 +20,17 @@
         ]
       },
       {
-        "id": "d42d8a840741ad17",
+        "id": "8f2804628c5a4fe1",
         "type": "tabs",
         "children": [
           {
-            "id": "61fbab658e2fede5",
+            "id": "4afed1592c6bcc66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "새 탭"
             }
           }
         ]
@@ -56,7 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -166,16 +163,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "61fbab658e2fede5",
+  "active": "4afed1592c6bcc66",
   "lastOpenFiles": [
+    "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter_01.md",
+    "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter_01/Chapter_01.md",
+    "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter_01",
+    "README.md",
     "Hello, World!.md",
     "desktop.ini"
   ]
