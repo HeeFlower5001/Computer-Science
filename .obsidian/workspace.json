@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87ed10631b78783b",
+            "id": "214ff13242dee240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter06/Chapter06.md",
+                "file": "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter05/Chapter05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter06"
+              "title": "Chapter05"
             }
           }
         ]
@@ -166,14 +166,53 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "87ed10631b78783b",
+  "floating": {
+    "id": "c6eaf982cfe07a2a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "445c59ea6165359f",
+        "type": "window",
+        "children": [
+          {
+            "id": "13868b0ceacafb7a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87ed10631b78783b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter03/Chapter03.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chapter03"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1440,
+        "y": -525,
+        "width": 1440,
+        "height": 1280,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "214ff13242dee240",
   "lastOpenFiles": [
+    "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter03/Chapter03.md",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter05/Chapter05.md",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter06/Chapter06.md",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter06",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter02/Chapter02.md",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter01/Chapter01.md",
-    "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter03/Chapter03.md",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter04/Chapter04.md",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter03/정리요소.md"
   ]
