@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/데이터베이스기초/week_01/week_01.md",
+                "file": "DataBase/데이터베이스기초/week_02/week_02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week_01"
+              "title": "week_02"
             }
           }
         ]
@@ -166,10 +166,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6b5a47606cd303c7",
+  "active": "214ff13242dee240",
   "lastOpenFiles": [
-    "DataBase/EMPTY.md",
+    "DataBase/데이터베이스기초/week_02/1.png",
+    "DataBase/데이터베이스기초/week_02/week_02.md",
+    "DataBase/데이터베이스기초/week_02/스크린샷 2025-10-18 202026.png",
+    "DataBase/데이터베이스기초/week_02",
     "DataBase/데이터베이스기초/week_01/week_01.md",
+    "DataBase/EMPTY.md",
     "DataBase/데이터베이스기초/week_01/1.png",
     "DataBase/데이터베이스기초/week_01/스크린샷 2025-10-18 191710.png",
     "Pasted image 20251018191713.png",
