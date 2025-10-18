@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter05/Chapter05.md",
+                "file": "DataBase/데이터베이스기초/week_01/week_01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter05"
+              "title": "week_01"
             }
           }
         ]
@@ -166,49 +166,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "floating": {
-    "id": "c6eaf982cfe07a2a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "445c59ea6165359f",
-        "type": "window",
-        "children": [
-          {
-            "id": "13868b0ceacafb7a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "87ed10631b78783b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter03/Chapter03.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Chapter03"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1440,
-        "y": -525,
-        "width": 1440,
-        "height": 1280,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "214ff13242dee240",
+  "active": "6b5a47606cd303c7",
   "lastOpenFiles": [
-    "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter03/Chapter03.md",
+    "DataBase/EMPTY.md",
+    "DataBase/데이터베이스기초/week_01/week_01.md",
+    "DataBase/데이터베이스기초/week_01/1.png",
+    "DataBase/데이터베이스기초/week_01/스크린샷 2025-10-18 191710.png",
+    "Pasted image 20251018191713.png",
+    "Pasted image 20251018191609.png",
+    "DataBase/데이터베이스기초/week_01",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter05/Chapter05.md",
+    "DataBase/데이터베이스기초",
+    "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter03/Chapter03.md",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter06/Chapter06.md",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter06",
     "Algorithm/Do-it!-알고리즘-코딩-테스트-자바편/Chapter02/Chapter02.md",
